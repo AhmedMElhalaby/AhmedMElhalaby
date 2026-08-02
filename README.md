@@ -34,15 +34,18 @@ A native macOS **AI agentic workspace** — a Jarvis-style floating-island HUD w
 
 ## 📦 Selected work
 
-| Project | What it is | Stack |
+One repo per stack, so you can see the range in six rows.
+
+| Stack | Project | What it is |
 | :--- | :--- | :--- |
-| [**Ainkrad**](https://github.com/AhmedMElhalaby/Ainkrad) | Agentic workspace & tiling HUD shell | `Swift 6` `SwiftUI` `AppKit` |
-| [**AinkradAppKit**](https://github.com/AhmedMElhalaby/AinkradAppKit) | Plugin SDK, ABI-frozen contract | `Swift` `SwiftPM` |
-| [**GitMage**](https://github.com/AhmedMElhalaby/GitMage) | Git client as a native Ainkrad pane | `Swift 6` |
-| [**FE-Workan.space**](https://github.com/AhmedMElhalaby/FE-Workan.space) | Multi-tenant SaaS control-room portal | `Next.js 15` `TypeScript` |
-| [**CORD-engine**](https://github.com/CORD-LLC/CORD-engine) | CORD-AEO protocol engine & kit builder | `Python` `FastAPI` |
-| [**nas_web**](https://github.com/AhmedMElhalaby/nas_web) · [**nas_mobile**](https://github.com/AhmedMElhalaby/nas_mobile) | Home-server dashboard + mobile client | `Laravel 12` `React` `Flutter` |
-| [**Elasticsearch**](https://github.com/AhmedMElhalaby/Elasticsearch) · [**Meilisearch**](https://github.com/AhmedMElhalaby/Meilisearch) | Laravel Scout search integrations | `PHP` `Scout` |
+| `Swift 6` `SwiftUI` | [**Ainkrad**](https://github.com/AhmedMElhalaby/Ainkrad) | Native macOS agentic workspace & tiling HUD shell |
+| `TypeScript` `Next.js 15` | [**FE-Workan.space**](https://github.com/AhmedMElhalaby/FE-Workan.space) | Multi-tenant SaaS control-room portal |
+| `PHP` `Laravel 12` | [**nas_web**](https://github.com/AhmedMElhalaby/nas_web) | Home-server dashboard on Laravel + Inertia + React |
+| `Python` `FastAPI` | [**CORD-engine**](https://github.com/CORD-LLC/CORD-engine) | CORD-AEO protocol engine & kit builder |
+| `Dart` `Flutter` | [**nas_mobile**](https://github.com/AhmedMElhalaby/nas_mobile) | Mobile client — GetX architecture, Firebase messaging |
+| `DevOps` `Homebrew` | [**homebrew-tap**](https://github.com/AhmedMElhalaby/homebrew-tap) | Release & `brew install` distribution for the CLI |
+
+<sub>Also public: [AinkradAppKit](https://github.com/AhmedMElhalaby/AinkradAppKit) (plugin SDK) · [GitMage](https://github.com/AhmedMElhalaby/GitMage) (Git client plugin) · [Elasticsearch](https://github.com/AhmedMElhalaby/Elasticsearch) · [Meilisearch](https://github.com/AhmedMElhalaby/Meilisearch) (Laravel Scout integrations). Go work (ULYNK) is private.</sub>
 
 <details>
 <summary><b>Beyond these repos</b> — ~1,200 commits and 645 PRs in private codebases</summary>
