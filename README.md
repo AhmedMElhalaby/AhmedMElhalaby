@@ -6,7 +6,7 @@ apps, and the infrastructure under all of it. Now building native macOS develope
 tools in Swift, including **[Ainkrad](https://github.com/AhmedMElhalaby/Ainkrad)**,
 an agentic workspace with its own plugin SDK, CLI, and marketplace.
 
-🇵🇸 Palestine · Building in public · [ahmedm.elhalaby@gmail.com](mailto:ahmedm.elhalaby@gmail.com) · [ahmedmelhalaby.github.io](https://ahmedmelhalaby.github.io)
+🇵🇸 Palestine · Building in public · [ahmedm.elhalaby@gmail.com](mailto:ahmedm.elhalaby@gmail.com)
 
 ---
 
@@ -17,17 +17,20 @@ workspace: a Jarvis-style floating-island HUD with tiled panes over one blurred
 surface, a PTY-backed terminal, and a distraction-free Focus Mode. It ships as a
 platform, not just an app — third-party plugins build against
 **[AinkradAppKit](https://github.com/AhmedMElhalaby/AinkradAppKit)**, an SDK with an
-ABI-frozen host contract, and are scaffolded, validated and published with the
+ABI-frozen host contract; they are scaffolded, validated and published with the
 **[`ainkrad` CLI](https://github.com/AhmedMElhalaby/AinkradKit)** distributed over a
-[Homebrew tap](https://github.com/AhmedMElhalaby/homebrew-tap).
+[Homebrew tap](https://github.com/AhmedMElhalaby/homebrew-tap); and the host resolves
+them from a [live catalog](https://github.com/AhmedMElhalaby/AinkradCatalog), so new
+apps ship without a host release.
 [![Release](https://img.shields.io/github/v/release/AhmedMElhalaby/Ainkrad?sort=semver&label=release)](https://github.com/AhmedMElhalaby/Ainkrad/releases)
 
-**[GitScope](https://github.com/AhmedMElhalaby/GitScope)** — a native macOS Git client
-repositioned as observability for AI-assisted development: it reconstructs what AI
-coding tools did to your repositories from local, privacy-preserving evidence.
+**Workan.Space** — a multi-tenant workspace SaaS: bookings, check-ins, balanced
+financial ledgers, and hotspot network provisioning, behind a subdomain-based
+tenant router. The [front-end control room](https://github.com/AhmedMElhalaby/FE-Workan.space)
+is public; the API is not.
 
-**[ULYNK](https://github.com/AhmedMElhalaby/ULYNK)** — a self-hosted personal cloud
-appliance in Go, for people who would rather own the hardware their data lives on.
+**ULYNK** *(private)* — a self-hosted personal cloud appliance in Go, for people who
+would rather own the hardware their data lives on.
 
 ---
 
@@ -37,12 +40,10 @@ appliance in Go, for people who would rather own the hardware their data lives o
 | --- | --- | --- |
 | [Ainkrad](https://github.com/AhmedMElhalaby/Ainkrad) | Native macOS agentic workspace and tiling HUD shell | Swift 6, SwiftUI, AppKit |
 | [AinkradAppKit](https://github.com/AhmedMElhalaby/AinkradAppKit) | Plugin SDK with an ABI-frozen host contract | Swift, SwiftPM |
-| [GitScope](https://github.com/AhmedMElhalaby/GitScope) | Git client for observing AI-assisted development | Swift 6, SwiftUI, SwiftData |
-| [ULYNK](https://github.com/AhmedMElhalaby/ULYNK) | Self-hosted home cloud appliance | Go, pgx/PostgreSQL |
+| [AinkradKit](https://github.com/AhmedMElhalaby/AinkradKit) | Developer CLI for scaffolding and publishing plugins | Swift, Homebrew |
+| [FE-Workan.space](https://github.com/AhmedMElhalaby/FE-Workan.space) | Multi-tenant workspace SaaS control-room portal | Next.js 15, TypeScript |
 | [CORD-engine](https://github.com/CORD-LLC/CORD-engine) · [kit-builder](https://github.com/CORD-LLC/cord-aeo-kit-builder) | Engine and kit builder for the CORD-AEO protocol — validated envelope generation from a YAML intake | Python, FastAPI, Pydantic |
-| [Workan.Space](https://github.com/AhmedMElhalaby/Workan.Space) | Workspace platform, separate API and SPA client | Next.js, TypeScript, Laravel |
-| [Fusion_SalesSystem](https://github.com/AhmedMElhalaby/Fusion_SalesSystem) | Sales and point-of-sale system with an SPA client | PHP, Laravel, JavaScript |
-| [Elasticsearch](https://github.com/AhmedMElhalaby/Elasticsearch) · [Meilisearch](https://github.com/AhmedMElhalaby/Meilisearch) | Laravel Scout search integrations | PHP, Laravel Scout |
+| [Elasticsearch](https://github.com/AhmedMElhalaby/Elasticsearch) · [Meilisearch](https://github.com/AhmedMElhalaby/Meilisearch) | Laravel Scout search-engine integrations | PHP, Laravel Scout |
 
 **Beyond these repos** — most of my output lives in private codebases: roughly
 **1,200 commits and 645 pull requests** authored outside my own account. The work
