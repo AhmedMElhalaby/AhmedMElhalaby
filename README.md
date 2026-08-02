@@ -23,7 +23,7 @@ A native macOS **AI agentic workspace** — a Jarvis-style floating-island HUD w
 | [**AinkradAppKit**](https://github.com/AhmedMElhalaby/AinkradAppKit) | Plugin SDK — ABI-frozen host contract |
 | [**AinkradKit**](https://github.com/AhmedMElhalaby/AinkradKit) | `ainkrad` CLI — scaffold → validate → publish |
 | [**AinkradCatalog**](https://github.com/AhmedMElhalaby/AinkradCatalog) | Live app catalog — ship plugins without a host release |
-| [**homebrew-tap**](https://github.com/AhmedMElhalaby/homebrew-tap) | `brew install` distribution |
+| [**homebrew-ainkrad**](https://github.com/AhmedMElhalaby/homebrew-ainkrad) | `brew install` distribution |
 
 ### Also in flight
 
@@ -43,7 +43,7 @@ One repo per stack, so you can see the range in six rows.
 | `PHP` `Laravel 12` | [**nas_web**](https://github.com/AhmedMElhalaby/nas_web) | Home-server dashboard on Laravel + Inertia + React |
 | `Python` `FastAPI` | [**CORD-engine**](https://github.com/CORD-LLC/CORD-engine) | CORD-AEO protocol engine & kit builder |
 | `Dart` `Flutter` | [**nas_mobile**](https://github.com/AhmedMElhalaby/nas_mobile) | Mobile client — GetX architecture, Firebase messaging |
-| `DevOps` `Homebrew` | [**homebrew-tap**](https://github.com/AhmedMElhalaby/homebrew-tap) | Release & `brew install` distribution for the CLI |
+| `DevOps` `Homebrew` | [**homebrew-ainkrad**](https://github.com/AhmedMElhalaby/homebrew-ainkrad) | Release & `brew install` distribution for the CLI |
 
 <sub>Also public: [AinkradAppKit](https://github.com/AhmedMElhalaby/AinkradAppKit) (plugin SDK) · [GitMage](https://github.com/AhmedMElhalaby/GitMage) (Git client plugin) · [Elasticsearch](https://github.com/AhmedMElhalaby/Elasticsearch) · [Meilisearch](https://github.com/AhmedMElhalaby/Meilisearch) (Laravel Scout integrations). Go work (ULYNK) is private.</sub>
 
