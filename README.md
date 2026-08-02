@@ -6,7 +6,12 @@
 
 11 years shipping production systems · now building native macOS developer tools
 
-🇵🇸 Palestine &nbsp;·&nbsp; [Email](mailto:ahmedm.elhalaby@gmail.com) &nbsp;·&nbsp; [Site](https://ahmedmelhalaby.github.io)
+🇵🇸 Palestine &nbsp;·&nbsp; available for freelance & contract work
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmelhalaby/)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ahmede484)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedm.elhalaby@gmail.com)
+[![Website](https://img.shields.io/badge/Website-222222?style=flat-square&logo=safari&logoColor=white)](https://ahmedmelhalaby.github.io)
 
 </div>
 
