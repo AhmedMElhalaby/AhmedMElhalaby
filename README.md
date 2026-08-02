@@ -59,12 +59,3 @@ dashboards on top of them — plus the CI, containerisation and deployment aroun
 **Frontend** — TypeScript, React, Next.js, Redux Toolkit, TanStack Query, Zustand, Tailwind, Radix, Vite, Zod, Blade
 **Native & mobile** — Swift 6, SwiftUI, AppKit, SwiftData, Dart/Flutter (GetX, Dio, Firebase, Google Maps)
 **DevOps** — Docker & Compose, GitHub Actions, Nginx, Linux, Laravel Sail, Homebrew distribution
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedMElhalaby&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMElhalaby&layout=compact&hide_border=true&theme=github_dark&langs_count=6&hide=blade,html,css,scss,less,ruby" alt="Top languages" />
-
-</div>
